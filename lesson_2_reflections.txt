@@ -7,13 +7,15 @@ What value do you think it offers?
   The staging area is from where the files can be commited.
   It is useful in the sense that we can choose which files we have to commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+    We can compare the staging area with the repository to make sure we 
+    have only made one logical change.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    Branches are helpful when u have to keep your original file safe and only tryout a new feature on an experimental basis.
 
 How do the diagrams help you visualize the branch structure?
+    I can now easily make switch to different versions and know what changes exist in them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
