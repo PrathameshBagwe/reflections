@@ -18,7 +18,7 @@ How do the diagrams help you visualize the branch structure?
     I can now easily make switch to different versions and know what changes exist in them.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-	After merging one branch into the other, the contents of both the branches are obtained in the final commit. Since we r merging the two commits, we now represent them as only one branch.
+	  After merging one branch into the other, the contents of both the branches are obtained in the final commit. Since we r merging the two commits, we now represent them as only one branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-	
+	   Merging two versions of a file is a very tedious job, git's automatic merging is a lot more efficient. Even conflicts can easily be resolved as compared to manual merging.
